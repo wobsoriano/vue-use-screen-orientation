@@ -22,6 +22,11 @@ const orientation = useScreenOrientation()
 </template>
 ```
 
+## Why?
+
+- [orientationchange](https://developer.mozilla.org/en-US/docs/Web/API/Window/orientationchange_event) event is deprecated.
+- [screen.orientation](https://developer.mozilla.org/en-US/docs/Web/API/Screen/orientation) has patchy support.
+
 ## License
 
 MIT
