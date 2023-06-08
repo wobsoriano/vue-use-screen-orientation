@@ -1,6 +1,6 @@
 {
   "name": "vue-use-screen-orientation",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "packageManager": "pnpm@8.6.1",
   "description": "A Vue composable for detecting screen orientation using media query.",
   "author": "Robert Soriano <sorianorobertc@gmail.com>",
@@ -11,7 +11,10 @@
     "url": "git+https://github.com/wobsoriano/vue-use-screen-orientation.git"
   },
   "bugs": "https://github.com/wobsoriano/vue-use-screen-orientation/issues",
-  "keywords": ["vue", "hooks"],
+  "keywords": [
+    "vue",
+    "hooks"
+  ],
   "sideEffects": false,
   "exports": {
     ".": {
